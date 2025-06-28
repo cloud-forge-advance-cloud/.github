@@ -41,7 +41,7 @@ CloudForge is a backend-driven microservice built in Go, designed to monitor and
 
 ## 🖼 Architecture Diagram
 
-![Architecture](https://github.com/cloud-forge-advance-cloud/.github/ArchitectureDiagram.jpg)
+![CloudForge Architecture](../ArchitectureDiagram.jpg)
 
 ---
 
