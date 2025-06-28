@@ -37,6 +37,14 @@ CloudForge is a backend-driven microservice built in Go, designed to monitor and
 - Prometheus + Grafana provide end-to-end observability
 
 ---
+
+
+## 🖼 Architecture Diagram
+
+![Architecture](./ArchitectureDiagram.jpg)
+
+---
+
 ## 🔗 Links
 
 - 📂 GitHub Repo: [Cloud_Craft](https://github.com/orgs/cloud-forge-advance-cloud/repositories)  
