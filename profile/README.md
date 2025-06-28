@@ -1,4 +1,4 @@
-# 🔐 CloudForge – CVE Tracking Microservice with DevSecOps
+# 🔐 CloudForge – CVE Tracking Microservice with DevSecOps and Cloud-Native Observability
 
 CloudForge is a backend-driven microservice built in Go, designed to monitor and track Common Vulnerabilities and Exposures (CVEs). It integrates Kafka for event-driven messaging and PostgreSQL for data persistence, all deployed with robust DevSecOps practices using Jenkins, Helm, and AWS infrastructure.
 
@@ -41,7 +41,7 @@ CloudForge is a backend-driven microservice built in Go, designed to monitor and
 
 ## 🖼 Architecture Diagram
 
-![Architecture](.github/ArchitectureDiagram.jpg)
+![Architecture](https://github.com/cloud-forge-advance-cloud/.github/ArchitectureDiagram.jpg)
 
 ---
 
